@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zyrusgod
+- 👋 Hey , I’m @zyrusgod
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Artificial Intelligence & Machine Learning 
 - 💞️ I’m looking to collaborate on business that use tools of ai and progress 
